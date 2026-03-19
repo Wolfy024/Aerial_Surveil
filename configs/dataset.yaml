@@ -1,0 +1,11 @@
+path: datasets/merged
+train: train/images
+val: val/images
+test: val/images
+nc: 5
+names:
+  - person
+  - vehicle
+  - drone
+  - bicycle
+  - aerial_other

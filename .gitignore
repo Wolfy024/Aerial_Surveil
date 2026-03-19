@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Data and artifacts
+data/
+datasets/
+runs/
+weights/
+*.pt
+
+# Local tool state
+.yolo_config/
+
+# OS/editor noise
+.DS_Store
+*.swp
