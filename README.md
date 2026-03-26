@@ -4,7 +4,7 @@ Runnable starter for dataset preparation, YOLO training, object tracking, and mo
 
 Datasets Used : VisDrone, AOD4, HIT-UAV
 
-IMG SIZE : 1280
+IMG SIZE : 960
 
 EPOCH: 50
 
